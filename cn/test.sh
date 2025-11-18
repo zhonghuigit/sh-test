@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "cn"
+echo "this is cn"

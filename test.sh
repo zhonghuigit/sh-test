@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "default"
+echo "this is default"
